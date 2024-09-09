@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tp5_exo2.dir/main.cpp.o CMakeFiles/tp5_exo2.dir/banque.cc.o -o tp5_exo2 

@@ -1,0 +1,3 @@
+/home/zen/Etudes/L3/POO/TPs/TP7/build-tp7_exo2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/tp7_exo2.dir
+/home/zen/Etudes/L3/POO/TPs/TP7/build-tp7_exo2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/zen/Etudes/L3/POO/TPs/TP7/build-tp7_exo2-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir

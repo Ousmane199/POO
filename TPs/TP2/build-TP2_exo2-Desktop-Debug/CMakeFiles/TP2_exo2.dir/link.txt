@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/TP2_exo2.dir/main.cpp.o CMakeFiles/TP2_exo2.dir/sequence.cc.o -o TP2_exo2 

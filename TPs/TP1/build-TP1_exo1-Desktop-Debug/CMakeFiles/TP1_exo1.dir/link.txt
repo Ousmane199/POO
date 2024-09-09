@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/TP1_exo1.dir/main.cpp.o CMakeFiles/TP1_exo1.dir/sequence.cc.o -o TP1_exo1 

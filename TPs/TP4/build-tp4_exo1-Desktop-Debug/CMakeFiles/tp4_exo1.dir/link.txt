@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tp4_exo1.dir/main.cc.o CMakeFiles/tp4_exo1.dir/position.cc.o CMakeFiles/tp4_exo1.dir/piece.cc.o -o tp4_exo1 

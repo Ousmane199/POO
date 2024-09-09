@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tp5_exo1.dir/main.cc.o CMakeFiles/tp5_exo1.dir/echiquier.cc.o CMakeFiles/tp5_exo1.dir/piece.cc.o CMakeFiles/tp5_exo1.dir/position.cc.o -o tp5_exo1 
